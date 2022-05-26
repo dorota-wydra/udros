@@ -1,7 +1,9 @@
 ---
-title: "Hello, World!"
-date: 2022-05-26T21:46:03+02:00
-draft: false
+data: 2022-05-26
+tytuŁ: Oczekiwanie
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Oczekiwanie. Niepewność. Lęk przed nieznamym. Napięcie, zarówno to dobre, jak i związane ze stresem. 
+
+Za 15 dni o tej porze będę już na szlaku. Jest we mnie sporo niepokoju, ekscytacja i ożywienie na myśl o przygodzie. Nie planuję nic ponad to, co niezbędne. Pakuję namiot i swoje niewielkie doświadczenie, by cieszyć się niezależnością. Znam jedynie ogólny kierunek - czerwony, główny szlak w polskich Beskidach. Jakieś 500 km i trzy tygodnie, by dotrzeć w ukochany Beskid Niski i przepiękne Bieszczady. Nie chcę się spieszyć, umawiać, ustalać gdzie nocleg, gdzie obiad, przejmować się, że już noc jeśli nogi będą niosły... 
+To czas tylko dla mnie. Chcę poznać siebie i ustalić, jaka naprawdę jestem. Chcę nazwać tęsknotę, przerazić się samotnością i oswoić własne myśli. Być tylko tu i teraz. Zeszłoroczny kurs przewodników górskich odkrył przede mną jakąś nieznaną mi, moją własną twarz. Nie chcą tego, zasłaniam ją, kiedy tylko wracam z gór, ale może tym razem, kiedy będę miała więcej czasu, uda mi się chociaż częściowo wyrzeźbić ją, odsłonić. Na stałe. Bo tam, w górach, bardziej siebie lubię. Potrafię siebie docenić. I być może trochę pokochać. 
