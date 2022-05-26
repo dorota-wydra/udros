@@ -1,5 +1,5 @@
 baseURL: "https://dorota-w-ska.pages.dev/"
-title: Dorota W-ska
+title: Ulios kelias. Wydrza droga
 paginate: 5
 theme: PaperMod
 
@@ -49,7 +49,7 @@ params:
 
   label:
     text: "Ūdros kelias"
-    # icon: dorota_w_ska/content/posts/images/udros kelias_icon.png
+    # icon: /content/posts/images/udros-kelias_icon.png
     # iconHeight: 35
 
   # profile-mode
