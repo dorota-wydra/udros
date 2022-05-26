@@ -1,7 +1,15 @@
 ---
-title: "To jest drugi post"
-date: 2022-05-26T22:06:58+02:00
+title: "Tamta twarz"
+date: 2022-05-27
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Tamta twarz
+
+Ktoś powiedział mi niedawno, że to depresyjne doświadczenie. Zawahałam się wtedy z odpowiedzią. Tak trudno jest się przyznać, że są dni, kiedy w lustrze widzisz nie swoją twarz a pustkę, przerażająco smutną pustkę. Znam ten chłód, kiedy poddajesz się, lecisz w dół, zapętlasz muzykę, która wręcz rozrywa cię od środka, rysuje skórę... Nie chcesz tego i jednocześnie dalej to sobie robisz, bo jest to w jakiś niewyjaśniony sposób nawet przyjemne. Jak przygryzanie ranki w ustach, rozdrapywanie strupa czy naciskanie na bolący mięsień. Nie chcesz tego, wiesz, że nie powinieneś się w tym zanurzać, ale czasem tylko z tego umiesz czerpać przyjemność. Dlatego nie boję się tego, znam to. 
+
+W górach wszystko jest inne, prostsze. Problemy, które przed chwilą przerażały, tam przestają mieć jakiekolwiek znaczenie. Tam łatwiej jest być szczęśliwym… Kiedy idziesz, krok za krokiem oddalając się od nic nieznaczących awansów, spóźnień, cudzych wymagań, konwenansów, rozmów po cichu, uśmiechów numer trzy i specjalnego tonu, kiedy odbierasz telefon, nieudanych kontaktów z ludźmi, cudzych trosk i zaniedbań, kiedy jedyne co masz to cisza – myśli zaczynają wirować aż w którejś chwili każdą z nich możesz złapać, wysłuchać, ułożyć na miejscu.
+
+Odkrywasz na nowo sprawy, które zostały zakopane, porzucone w kącie, zaniedbane. Wracają nieprzepłakane wspomnienia, twarze bliskich, których już nie ma, wyrzuty sumienia…  Wypłakujesz to i zamykasz w odpowiednim, podpisanym pudełku. Tam, w górach, możesz iść przed siebie nawet jeśli w życiu utknąłeś w niechcianym miejscu. Możesz być silny nawet jeśli na co dzień przerażają cię zwykłe, dorosłe sprawy. Możesz odetchnąć nawet jeśli chwilę wcześniej się dusiłeś.
+
+Chcę wrysować w siebie góry na stałe, wtłoczyć w swoje ciało ich tętno i siłę; zapamiętać każde uczucie, które niesie ze sobą wiatr na szczycie; pamiętać, jak malutka jestem w cichym, nocnym lesie gdzieś poza szlakiem i pamiętać szczęście, gdy moczy mnie ciepły deszcz, gdy powietrze po burzy pachnie, gdy chmury gonią się po niebie i kiedy dostrzegam pojedyncze mrówki pod nogami. Chcę wynieść z gór ile tylko udźwignę, a jeśli nie dam rady – to chociaż na tych kilka krótkich tygodni udawać, że nie ma nic poza górami.
