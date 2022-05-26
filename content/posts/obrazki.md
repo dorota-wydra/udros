@@ -1,7 +1,7 @@
 ---
 title: "Tu są obrazki i formatowanie"
 date: 2022-05-26T22:44:58+02:00
-draft: false
+draft: true
 ---
 
 # Nagłówek
