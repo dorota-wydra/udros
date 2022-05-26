@@ -48,8 +48,8 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
-    # icon: /apple-touch-icon.png
+    text: "Ūdros kelias"
+    # icon: dorota_w_ska/content/posts/images/udros kelias_icon.png
     # iconHeight: 35
 
   # profile-mode
