@@ -1,6 +1,6 @@
 baseURL: "https://dorota-w-ska.pages.dev/"
 title: Ulios kelias. Wydrza droga
-paginate: 10
+paginate: 12
 theme: PaperMod
 
 enableRobotsTXT: true
