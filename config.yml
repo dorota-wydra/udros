@@ -22,7 +22,7 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
-  ShowReadingTime: true
+  ShowReadingTime: false
   ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
@@ -48,7 +48,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Ūdros kelias <br>Wydrza droga"
+    text: "Ūdros kelias"
     # icon: /content/posts/images/udros-kelias_icon.png
     # iconHeight: 35
 
@@ -69,8 +69,9 @@ params:
 
   # home-info mode
   # homeInfoParams:
-  #   Title: "Hi there \U0001F44B"
-  #   Content: Welcome to my blog
+  #   Title: "Cześć"
+  #   Content: Udros kelias to po litewsku wydrza droga. 
+Moja. A to jest mój sposób na poradzenie sobie z różnymi myślami. 
 
   # socialIcons:
   #   - name: twitter
