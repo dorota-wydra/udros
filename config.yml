@@ -52,6 +52,11 @@ params:
     # icon: /content/posts/images/udros-kelias_icon.png
     # iconHeight: 35
 
+label:
+text: "Wydra droga. Ścieżka, którą nie idzie prosto. 
+A to miejsce to mój sposób na poradzenie sobie
+z własnymi myślami.“
+
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
