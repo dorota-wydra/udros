@@ -49,7 +49,7 @@ params:
 
   label:
     text: "Ūdros kelias"
-    # icon: /content/posts/images/udros-kelias_icon.png
+    # icon: "<https://github.com/landmaj/dorota_w_ska/blob/master/content/posts/images/udros-kelias_icon.png">
     # iconHeight: 35
 
 label:
