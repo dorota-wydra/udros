@@ -1,5 +1,5 @@
 baseURL: "https://dorota-w-ska.pages.dev/"
-title: Ulios kelias.
+title: Udros kelias.
 paginate: 12
 theme: PaperMod
 
@@ -14,7 +14,7 @@ minify:
 
 params:
   env: production
-  title: Dorota W-ska
+  title: Udros kelias
   # description: ""
   # keywords: []
   # images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -53,8 +53,8 @@ params:
     # iconHeight: 35
 
 label:
-text: "Wydra droga. Ścieżka, którą nie idzie prosto. 
-A to miejsce to mój sposób na poradzenie sobie
+text: "Wydrza droga. Ścieżka, która nie idzie prosto. 
+to miejsce to mój sposób na poradzenie sobie
 z własnymi myślami.“
 
   # profile-mode
@@ -75,8 +75,7 @@ z własnymi myślami.“
   # home-info mode
   # homeInfoParams:
   #   Title: "Cześć"
-  #   Content: Udros kelias to po litewsku wydrza droga. 
-Moja. A to jest mój sposób na poradzenie sobie z różnymi myślami. 
+  #   Content: ... 
 
   # socialIcons:
   #   - name: twitter
