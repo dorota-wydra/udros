@@ -48,11 +48,9 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Ūdros kelias"
-    # icon: "<https://github.com/landmaj/dorota_w_ska/blob/master/content/posts/images/udros-kelias_icon.png">
+    text: "Ūdros kelias."
+    # icon: <>
     # iconHeight: 35
-
-label:
 text: "Wydrza droga. Ścieżka, która nie idzie prosto. 
 to miejsce to mój sposób na poradzenie sobie
 z własnymi myślami.“
