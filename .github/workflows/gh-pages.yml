@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          submodules: true  # fetch Hugo themes
+          submodules: false  # fetch Hugo themes
           fetch-depth: 0
 
       - name: Setup Hugo
