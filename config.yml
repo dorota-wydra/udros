@@ -33,9 +33,9 @@ params:
             src: img/avatar.png
 
     article:
-        math: false
+        math: true
         toc: true
-        readingTime: true
+        readingTime: false
         license:
             enabled: false
             default: Licensed under CC BY-NC-SA 4.0
@@ -137,7 +137,7 @@ params:
         toggle: true
 
         # Available values: auto, light, dark
-        default: auto
+        default: dark
 
     imageProcessing:
         cover:
